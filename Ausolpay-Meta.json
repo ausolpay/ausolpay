@@ -1,10 +1,7 @@
 {
-      "chainId": 101,
-      "address": "69cKD5eJqmj9boQNtHAoUg5b3ye9KzXrcuwrHxdCtA1B",
-      "symbol": "AUP",
       "name": "AusolPay",
-      "decimals": 8,
-      "logoURI": "https://github.com/ausolpay/ausolpay/blob/main/AusolPay_Icon-01.png",
+      "symbol": "AUP",
+      "image": "https://github.com/ausolpay/ausolpay/blob/main/AusolPay_Icon-01.png",
       "tags": [
         "utility-token"
       ],
