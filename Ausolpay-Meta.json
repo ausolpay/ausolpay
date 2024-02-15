@@ -1,7 +1,7 @@
 {
       "name": "AusolPay",
       "symbol": "AUP",
-      "image": "https://github.com/ausolpay/ausolpay/blob/main/AusolPay_Icon-01.png",
+      "image": "https://raw.githubusercontent.com/ausolpay/ausolpay/main/AusolPay_Icon-01.png",
       "tags": [
         "utility-token"
       ],
